@@ -1,4 +1,5 @@
 # e-commerce-back-end
+
 # Employee-Tracker
 
 ## Table Of Contents
@@ -8,6 +9,10 @@
 *[Description](#description)
 
 *[Code Snippet](#code-snippet)
+
+*[ScreenShot](#screenshots)
+
+*[Video](#video)
 
 *[Credits](#credits)
 
@@ -47,8 +52,15 @@ router.delete('/:id', async(req, res) => {
   }
 });
 ```
+## ScreenShots
+![Products insomnia](./Assets/Module%2013%20api%20products.png) ![Categories insomnia](./Assets/Module%2013%20api%20categories.png)
+![Tags insomnia](./Assets/Module%2013%20api%20tags.png)
+
+## Video
+[Walk through video](./Assets/Module%2013%20recording.mp4)
+
 ## Credits
-[Using object.key() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+[CRUD Help](https://www.codecademy.com/article/what-is-crud)
 
 [mySQL syntax](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
 
